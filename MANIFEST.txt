@@ -1,0 +1,15 @@
+.env.example
+.gitattributes
+.gitignore
+README.md
+VALIDATION.md
+MANIFEST.txt
+common.sh
+configure.cjs
+policy.yaml
+versions.env
+setup.sh
+run.sh
+stop.sh
+start.sh
+Install.cmd
